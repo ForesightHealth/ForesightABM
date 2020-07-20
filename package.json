@@ -7,7 +7,7 @@
     "highcharts": "8.0.0",
     "highcharts-more": "^0.1.7",
     "highcharts-react-official": "^2.2.2",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "papaparse": "^5.1.0",
     "rc-collapse": "^1.11.7",
     "react": "^16.12.0",
